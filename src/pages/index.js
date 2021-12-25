@@ -3,6 +3,7 @@ import styled from "styled-components";
 import "../global.css";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
+import Events from "../components/Events";
 
 const Container = styled.div`
   max-width: 1024px;
@@ -28,6 +29,8 @@ const IndexPage = () => {
           2014.
         </p>
         <p>... more to come soon</p>
+
+        <Events></Events>
       </Content>
       <Footer></Footer>
     </Container>

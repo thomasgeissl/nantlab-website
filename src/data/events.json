@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Kunst im Quadrat",
+      "venue": "Theresienwiese Munich",
+      "type": "workshop"
+    },
+
+    {
+      "title": "Saint-Ex Culture Numerique",
+      "venue": "Reims",
+      "type": "light installation/interior design"
+    },
+    {
+      "title": "Schnyder",
+      "venue": "Import Export Munich",
+      "type": "light installation/visuals"
+    },
+    {
+      "title": "Munich Tech Day",
+      "venue": "Tonhalle, Technikum Munich",
+      "type": "light installation"
+    }
+  ]
